@@ -179,7 +179,7 @@ Tech-Savvy-Academy-Enrollment-Analysis/
 
 **Abdulmuiz Abdulazeez Arikewushola**
 
-Entry-Level Data Analyst | Excel | SQL | Power BI | Python
+Data Analyst | Excel | SQL | Power BI | Python
 
 [E-mail](aatorshaw@gmail.com) | [LinkedIn](https://www.linkedin.com/in/torshaw)
 
